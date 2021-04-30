@@ -1,5 +1,5 @@
 # Liberta
-DDOS Layer 7 from proxy.
+DDOS Layer 4 from UDP.
 
 ### Installation
 ```sh
